@@ -178,7 +178,7 @@ A validation layer should flag cases where:
 - [ ] Automated regression tests
 - [ ] Cloud deployment
 
-## Resume Value
+## Value
 
 This project demonstrates:
 
